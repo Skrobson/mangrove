@@ -14,3 +14,24 @@
 
 # Editor-specific settings
 .clang_complete
+
+*~
+*.swp
+
+_local-bin
+_dist-bin
+_tmp-build
+_build
+
+bin
+local-bin
+obj
+dist
+dist-bin
+build-debug-*
+build-release-*
+build
+
+.vscode
+.vs
+CMakeSettings.json
